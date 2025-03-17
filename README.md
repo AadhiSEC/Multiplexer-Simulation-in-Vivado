@@ -82,6 +82,7 @@ endmodule
 ```
 ## Simulated Output Gate Level Modelling
 
+![WhatsApp Image 2025-03-15 at 17 25 02_d9bed6be](https://github.com/user-attachments/assets/ebcd17c1-1363-41da-8d16-46bae3b7b9d2)
 
 
 ### 4:1 MUX Data Flow Implementation
